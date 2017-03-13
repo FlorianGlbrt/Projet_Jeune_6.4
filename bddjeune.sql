@@ -79,4 +79,4 @@ CREATE TABLE IF NOT EXISTS `jeune` (
 --
 
 INSERT INTO `jeune` (`id`, `login`, `pass`, `nom`, `prenom`, `jour`, `mois`, `annee`, `email`, `civil`) VALUES
-(1, 'guilbertflorian', 'guilbertflorian', 'Guilbert', 'Florian', 9, 12, 1996, 'durandjean@eisti.eu', 'M');
+(1, 'guilbertflorian', 'guilbertflorian', 'Guilbert', 'Florian', 9, 12, 1996, 'guilbertfl@eisti.eu', 'M');
