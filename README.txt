@@ -8,7 +8,7 @@ vous utilisez donc mysql en serveur local :
 		$login = un utilisateur qui a tous les droits sur la bdd <bddjeune> 
 		$motdepasse = mot de passe de cet utilisateur
 
-Il existe déjà un membre du site, "durandjean" avec pour mdp "durandjean"
+Il existe déjà un membre du site, "guilbertflorian" avec pour mdp "guilbertflorian"
 
 
 
