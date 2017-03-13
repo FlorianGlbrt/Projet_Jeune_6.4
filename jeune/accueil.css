@@ -1,0 +1,151 @@
+body {
+    font-family: Eurostile;
+}
+/* Remove the navbar's default margin-bottom and rounded borders */
+
+.navbar {
+    border-radius: 0;
+}
+
+/* Set background color, white text and some padding */
+
+footer {
+    background-color: rgba(#555555, 0.54);
+    color: gray;
+    padding: 15px;
+}
+.top {
+    background-size: cover;
+    color: white;
+}
+.left {
+    float: left;
+    text-align: center;
+}
+.right {
+    float: right;
+    text-align: right;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+.logo {
+    padding-top: 1%;
+}
+.wide {
+    letter-spacing: 4px;
+}
+.accueil {
+    background-image: url(images/fond.png);
+}
+.jeune {
+    background-image: url(images/fondjeune.png);
+}
+.jeunebulle {
+  background-color: #e6007e;
+  background-size: cover;
+}
+.jeuneactive {
+    background-color: #9f054f;
+}
+.referent {
+    background-image: url(images/fondref.png);
+}
+.referentbulle {
+  background-color: #13a538;
+  background-size: cover;
+}
+.referentactive {
+    background-color: #177408;
+}
+.consultant {
+    background-image: url(images/fondconsult.png);
+}
+.consultantactive {
+    background-color: #0356a2;
+}
+.jeunevalide {
+    font-size: 1.3em;
+    text-align: center;
+    color: white;
+    background: #a10662;
+    background: linear-gradient(#e6007e, #9f054f);
+    border-radius: 8px;
+    text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 5px rgba( 0, 0, 0, 0.5), 0 -1px 0 rgba( 255, 255, 255, 0.4);
+}
+.referentvalide {
+    font-size: 1.3em;
+    text-align: center;
+    color: white;
+    background: #047c09;
+    background: linear-gradient(#13a538, #135c07);
+    border-radius: 8px;
+    text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 5px rgba( 0, 0, 0, 0.5), 0 -1px 0 rgba( 255, 255, 255, 0.4);
+}
+.consultantvalide {
+    font-size: 1.3em;
+    text-align: center;
+    color: white;
+    background: #0e89e3;
+    background: linear-gradient(#009fe3, #0356a2);
+    border-radius: 8px;
+    text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 5px rgba( 0, 0, 0, 0.5), 0 -1px 0 rgba( 255, 255, 255, 0.4);
+}
+#jeune {
+    background: #e6007e none repeat scroll 0% 0%;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+#referent {
+    background: #13a538 none repeat scroll 0% 0%;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+#consultant {
+    background: #009fe3 none repeat scroll 0% 0%;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+label {
+    text-align: left;
+}
+.gallery {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+.gallery li {
+    list-style: none;
+    margin-bottom: 25px;
+}
+.fondecran {
+    background-image: url(images/fondgris.png);
+    background-size: cover;
+}
+.noresize {
+    resize: none;
+}
+.nav.navbar-nav li a {
+    color: white;
+}
+.etape1 {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #e6007e;
+    width: 573px;
+    height: 534px;
+    background-size: cover;
+}
+
+.rowbulle{
+    overflow: hidden;
+}
+
+.dimensionextensible {
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
